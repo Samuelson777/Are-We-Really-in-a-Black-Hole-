@@ -3,7 +3,7 @@
 **Theoretical Foundations, Observational Constraints, and Empirical Refutation**
 
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.16997.05603-blue)](https://doi.org/10.13140/RG.2.2.11153.60009)
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.13140/RG.2.2.16997.05603-blue)](https://zenodo.org/records/19208797)
+[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/19208797)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📌 Overview
